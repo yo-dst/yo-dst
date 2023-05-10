@@ -15,11 +15,3 @@ You can reach me at me.yodst@gmail.com. <br/>
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-dst&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/yo-dst)
-
-[![yo-dst's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-dst&theme=dark)](https://github.com/yo-dst)
-
-
-
-
-
-
